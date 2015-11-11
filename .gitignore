@@ -2,4 +2,4 @@ config.inc.php
 *.phar
 vendor
 info.php
-js
+# js
